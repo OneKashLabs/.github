@@ -8,10 +8,10 @@ We build privacy-focused apps for everyday life. No tracking. No accounts. No no
 
 - **[KashCal](https://kashcal.github.io)** — A modern calendar that works offline and syncs with iCloud
 - **[KashCake](https://github.com/KashCal/KashCake)** — Never forget a birthday. Syncs with contacts, stays on your device
-- **KashTime** — Timers and stopwatches that respect your focus *(coming soon)*
 
 ## Power Tools
 
+- **[iCalDAV](https://icaldav.github.io)** — A Kotlin CalDAV client with offline sync and conflict resolution. Sync calendars with iCloud, Nextcloud, and other CalDAV servers
 - **[iCloud Calendar MCP Server](https://github.com/icloud-calendar-mcp/icloud-calendar-mcp)** — MCP server for iCloud Calendar integration
 
 ## Philosophy
